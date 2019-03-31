@@ -8,7 +8,7 @@ TL;DR [ARTS打卡召集令](https://time.geekbang.org/column/article/85839)
 A: 
 
 > **Algorithm** <br> 
-每周至少做一个LeetCode的算法题。**主要是为了编程训练和学习。**如果不训练看再多的算法书，依然不会做算法题。
+每周至少做一个LeetCode的算法题。**主要是为了编程训练和学习**。如果不训练看再多的算法书，依然不会做算法题。
 
 R:
 > **Review** <br>
@@ -21,5 +21,23 @@ T:
 S:
 > **Share**<br>
 分享一篇有观点和思考的技术文章。**主要是为了建立影响力，能够输出价值观。**
+
+## 打卡地址
+把每周输出的ARTS以链接或者文本的方式放到知乎问答方便汇总。https://www.zhihu.com/question/301150832 
+
+## 读者故事
+这里是参加了ARTS小伙伴们的故事：http://stuq.com/a/100mT ，欢迎留言。
+
+## 实践
+本项目结合`ARTS`完成以下目标：
+- 回顾工作中所需掌握的技术（Android）
+- 学习感兴趣的技术（Python\JavaScript\React-Native\Flutter等），定期输出相关成果（文章或者Demo）
+- 巩固基础知识(Java基础、数据结构与算法)
+
+
+
+
+
+
 
 
