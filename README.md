@@ -28,12 +28,18 @@ S:
 ## 读者故事
 这里是参加了ARTS小伙伴们的故事：http://stuq.com/a/100mT ，欢迎留言。
 
-## 实践
+## 目标
 本项目结合`ARTS`完成以下目标：
 - 回顾工作中所需掌握的技术（Android）
 - 学习感兴趣的技术（Python\JavaScript\React-Native\Flutter等），定期输出相关成果（文章或者Demo）
 - 巩固基础知识(Java基础、数据结构与算法)
 
+## 实践
+- Week01
+  * A: [Median of Two Sorted Arrays](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_01)
+  * R: // TODO
+  * T: // TODO
+  * S: // TODO
 
 
 
