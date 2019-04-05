@@ -37,8 +37,8 @@ S:
 ## 实践
 #### Week01
   * A: [Median of Two Sorted Arrays](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_01)
-  * R: [Understanding Clean Code in Android](2019/review/understanding-clean-code-in-android)
-  * T: // TODO
+  * R: [Understanding Clean Code in Android](2019/review/understanding-clean-code-in-android.md)
+  * T: [使用ADB命令](2019/tip/adb-command-usage.md)
   * S: // TODO
 
 
