@@ -35,9 +35,9 @@ S:
 - 巩固基础知识(Java基础、数据结构与算法)
 
 ## 实践
-- Week01
+#### Week01
   * A: [Median of Two Sorted Arrays](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_01)
-  * R: // TODO
+  * R: [Understanding Clean Code in Android](2019/review/understanding-clean-code-in-android)
   * T: // TODO
   * S: // TODO
 
