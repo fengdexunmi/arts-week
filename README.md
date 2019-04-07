@@ -39,7 +39,7 @@ S:
   * A: [Median of Two Sorted Arrays](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_01)
   * R: [Understanding Clean Code in Android](2019/review/understanding-clean-code-in-android.md)
   * T: [使用ADB命令](2019/tip/adb-command-usage.md)
-  * S: // TODO
+  * S: [理解Handler机制](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/understand-handler-source.md)
 
 
 
