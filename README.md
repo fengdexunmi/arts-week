@@ -41,6 +41,12 @@ S:
   * T: [使用ADB命令](2019/tip/adb-command-usage.md)
   * S: [理解Handler机制](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/understand-handler-source.md)
 
+#### Week02
+  * A: [Longest Palindromic Substring](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_02)
+  * R: [The Journey of Lauching Android Activity](2019/review/the-journey-of-launching-activity.md)
+  * T: [Terminal常用配置和命令](2019/tip/common-config-in-terminal.md)
+  * S: [Activity启动模式](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/understanding-activity-launchmode.md)
+
 
 
 
