@@ -23,7 +23,11 @@ S:
 分享一篇有观点和思考的技术文章。**主要是为了建立影响力，能够输出价值观。**
 
 ## 打卡地址
-把每周输出的ARTS以链接或者文本的方式放到知乎问答方便汇总。https://www.zhihu.com/question/301150832 
+把每周输出的ARTS以链接或者文本的方式放到知乎问答方便汇总。
+
+问题: https://www.zhihu.com/question/301150832 
+
+我的回答: https://www.zhihu.com/question/301150832/answer/643746231
 
 ## 读者故事
 这里是参加了ARTS小伙伴们的故事：http://stuq.com/a/100mT ，欢迎留言。
