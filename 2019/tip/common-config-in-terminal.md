@@ -63,6 +63,8 @@ git clone `origin url` --config 'http.proxy=127.0.0.1:1080'
 
 （<small>ip地址和端口号根据自己的实际去配置</small>）
 
+后面我们针对git命令，单独分享一个系列。可以先参考[git-tips](https://github.com/521xueweihan/git-tips)
+
 
 
 
