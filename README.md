@@ -47,6 +47,13 @@ S:
   * T: [Terminal常用配置和命令](2019/tip/common-config-in-terminal.md)
   * S: [Activity启动模式](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/understanding-activity-launchmode.md)
 
+  #### Week03
+  * A: [ZigZag Conversion](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_03)
+  * R: [StateListAnimator — a Powerful Little Tool for Elevation Animation](2019/review/little_tool_for_elevation_animation.md)
+  * T: [Android内存分析命令](2019/tip/memory-analysis-command.md)
+  * S: [Android系统演进](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/android-system-evolution.md)
+
+
 
 
 
