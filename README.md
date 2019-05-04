@@ -63,8 +63,8 @@ S:
   * T: 
   * S: [Android系统启动过程](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/android-system-boot.md)
 
-
-
-
-
-
+### Week05
+* A: [Palindrome Number && Regular Expression Matching](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_05)
+* R: [Using Binary Semaphores to Coordinate Threads](2019/review/using-semaphores-to-coordinate-threads.md)
+* T: [Vim基础操作](2019/tip/vim-usage.md) 
+* S: [Android事件分发机制](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/understanding-view-touch-event.md)
