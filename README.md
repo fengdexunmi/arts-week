@@ -68,3 +68,9 @@ S:
 * R: [Using Binary Semaphores to Coordinate Threads](2019/review/using-semaphores-to-coordinate-threads.md)
 * T: [Vim基础操作](2019/tip/vim-usage.md) 
 * S: [Android事件分发机制](https://github.com/fengdexunmi/we-love-android/blob/master/2019/share/understanding-view-touch-event.md)
+
+### Week06
+* A: [Container With Most Water](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_06)
+* R: [A simple guide to help you understand closures in JavaScript](2019/review/simple-guide-to-understand-closure-in-javascript.md)
+* T: [Ch1 - Practice in Vim](2019/tip/practice-in-vim-ch1.md)
+* S: 
