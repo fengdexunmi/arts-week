@@ -6,7 +6,10 @@
 
 
 性能分析图如下：
+
 ![1](img/improve-rn-performance-1.png)
+
+(图片来自[原文](https://hackernoon.com/how-to-improve-react-native-list-performance-5x-times-b299c8a23b5d))
 
 ## 问题
 
@@ -50,7 +53,10 @@ export default connectedFilter
 ## 解决方案
 
 只渲染发生变化的items，渲染时间可以减少5倍
+
 ![2](img/improve-rn-performance-1.png)
+
+(图片来自[原文](https://hackernoon.com/how-to-improve-react-native-list-performance-5x-times-b299c8a23b5d))
 
 1. 使用categories作为数据源，在FlatList上动态计算isShown。
 
@@ -107,7 +113,5 @@ const filterReducer = handleActions(
 
 ## Profiling
 使用Chrome Profiler进行性能分析
-
-以下是我自己跑的性能分析数据截图：
 
 
