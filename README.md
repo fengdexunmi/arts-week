@@ -74,3 +74,9 @@ S:
 * R: [A simple guide to help you understand closures in JavaScript](2019/review/simple-guide-to-understand-closure-in-javascript.md)
 * T: [Ch1 - Practice in Vim](2019/tip/practice-in-vim-ch1.md)
 * S: 
+
+### Week07
+* A: [Int to Roman](https://github.com/fengdexunmi/Read_Leetcode_Articles/tree/master/2019/week_07)
+* R: [How We Improved React Native List Performance by 5X](2019/review/improve-rn-list-performance.md)
+* T: [Ch2 - Practice in vim](2019/tip/practice-in-vim-ch2.md)
+* S: [生产者与消费者](2019/share/producer-and-consumer.md)
