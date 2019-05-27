@@ -80,3 +80,8 @@ S:
 * R: [How We Improved React Native List Performance by 5X](2019/review/improve-rn-list-performance.md)
 * T: [Ch2 - Practice in vim](2019/tip/practice-in-vim-ch2.md)
 * S: [生产者与消费者](2019/share/producer-and-consumer.md)
+
+### Week08
+
+* A: [Roman to Int](https://github.com/fengdexunmi/Read_Leetcode_Articles/blob/master/2019/week_08)
+* R: [How to make a simple memory game with themes in JavaScript using React hooks](https://github.com/fengdexunmi/arts-week/blob/master/2019/share/make-simple-memory-game-with-react-hooks.md)
