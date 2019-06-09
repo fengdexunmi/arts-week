@@ -85,3 +85,8 @@ S:
 
 * A: [Roman to Int](https://github.com/fengdexunmi/Read_Leetcode_Articles/blob/master/2019/week_08)
 * R: [How to make a simple memory game with themes in JavaScript using React hooks](https://github.com/fengdexunmi/arts-week/blob/master/2019/share/make-simple-memory-game-with-react-hooks.md)
+
+### Week09
+
+* A: [Longest Common Prefix](https://github.com/fengdexunmi/Read_Leetcode_Articles/blob/master/2019/week_09)
+* R: [Concurrency - Basic Threading (1)](https://github.com/fengdexunmi/arts-week/blob/master/2019/review/basic-threading-in-concurrency.md)
