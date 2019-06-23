@@ -90,3 +90,8 @@ S:
 
 * A: [Longest Common Prefix](https://github.com/fengdexunmi/Read_Leetcode_Articles/blob/master/2019/week_09)
 * R: [Concurrency - Basic Threading (1)](https://github.com/fengdexunmi/arts-week/blob/master/2019/review/basic-threading-in-concurrency.md)
+
+### Week10
+
+* A: [3sum](https://github.com/fengdexunmi/Read_Leetcode_Articles/blob/master/2019/week_10)
+* R: [Java内存区域](https://github.com/fengdexunmi/arts-week/blob/master/2019/share/manage-memory-in-java.md)
